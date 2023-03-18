@@ -31,8 +31,16 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
@@ -40,8 +48,6 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
-          plugin_introduction: yes
-          plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -55,24 +61,10 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_nightscout: yes
-          plugin_nightscout_datapoints: 12
-          plugin_nightscout_highalert: 180
-          plugin_nightscout_lowalert: 80
-          plugin_nightscout_urgenthighalert: 250
-          plugin_nightscout_urgentlowalert: 50
-          plugin_nightscout_url: https://example.herokuapp.com
-          plugin_poopmap: yes
-          plugin_poopmap_days: 7
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: commit
           plugin_projects: yes
-          plugin_projects_limit: 3
+          plugin_projects_limit: 4
           plugin_stars: yes
-          plugin_stars_limit: 3
-          plugin_support: yes
-          plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: current
+          plugin_stars_limit: 4
