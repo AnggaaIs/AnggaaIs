@@ -4,5 +4,5 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=anggaais&color=blue" alt="anggaais"></p>
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="/github-metrics.svg" alt="Metrics" width="100%">
 </picture>
