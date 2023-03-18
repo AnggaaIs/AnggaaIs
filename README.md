@@ -3,5 +3,4 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=anggaais&color=blue" alt="anggaais"></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=anggaais&theme=nightowl&show_icons=true" alt="anggaais"></p>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggaais&layout=compact&theme=nightowl" alt="anggaais"></p>
+![Metrics](/github-metrics.svg)
