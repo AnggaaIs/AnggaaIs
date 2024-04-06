@@ -1,7 +1,7 @@
-# Yo! 👋 I'm Angga 🚀
+# Hey hey! 👋 I'm Angga, your friendly neighborhood coder 🚀
 
-## About Me 🌟
-I'm your go-to backend wizard, fueled by TypeScript magic 💙. I thrive on cracking tough code nuts and crafting digital marvels that leave jaws dropped! Let's turn ideas into reality, one line of code at a time ✨.
+## What's Up? 🌟
+I'm all about that backend life, especially when it comes to TypeScript magic 💙. Think of me as your code genie, granting wishes and making digital dreams come true, one line at a time ✨.
 
 ## Skills & Tools 🛠️
 - **Languages:** TypeScript, JavaScript 🚀
@@ -9,8 +9,8 @@ I'm your go-to backend wizard, fueled by TypeScript magic 💙. I thrive on crac
 - **Databases:** MongoDB, PostgreSQL, MySQL 🗄️
 - **Tools:** Git, Docker, Postman 🔧
 
-## Let's Connect! 🌐
-- Hit me up: [servantangga@gmail.com](mailto:servantangga@gmail.com)
-- Find my adventures on X: [X](https://x.com/Anggaaais?t=mtqdHm1teFs3gOJe5RdEUg&s=09)
+## Let's Hang! 🌐
+- Shoot me a message: [servantangga@gmail.com](mailto:servantangga@gmail.com)
+- Catch my antics on X: [X](https://x.com/Anggaaais?t=mtqdHm1teFs3gOJe5RdEUg&s=09)
 
-Ready to rock the tech world together? Let's dive in and make some coding dreams come true! 🌟
+Ready to rock the coding world with some serious fun? Let's make it happen together! 🌟
