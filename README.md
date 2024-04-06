@@ -1,4 +1,4 @@
-# Assalamualaikum! 👋 I'm Angga, a Devotee of Code 🚀
+# Assalamualaikum! 👋 I'm **Angga**, a Devotee of Code 🚀
 
 ## About Me 🌟
 I'm deeply immersed in the world of backend development, with a heart captivated by TypeScript magic 💙. Solving intricate tech puzzles and crafting solutions that inspire and uplift is my mission, guided by the light of faith ✨.
