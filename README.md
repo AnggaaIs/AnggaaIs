@@ -1,19 +1,17 @@
-# Assalamualaikum! 👋 I'm **Angga**, a Devotee of Code 🚀
+# Angga Islami
 
-## About Me 🌟
-I'm deeply immersed in the world of backend development, with a heart captivated by TypeScript magic 💙. Solving intricate tech puzzles and crafting solutions that inspire and uplift is my mission, guided by the light of faith ✨.
+Software developer based in Indonesia. I build developer tools and web applications, with a focus on TypeScript, JavaScript, and Node.js. Open to software engineering opportunities.
 
-## Skills & Tools 🛠️
-- **Languages:** TypeScript, JavaScript 🚀
-- **Frameworks/Libraries:** Node.js, Express.js, Fastify 🚀
-- **Databases:** MongoDB, PostgreSQL, MySQL 🗄️
-- **Tools:** Git, Docker, Postman 🔧
+## Selected projects
 
-## Let's Connect! 🌐
-- Drop me a line: [servantangga@gmail.com](mailto:servantangga@gmail.com)
-- Follow my journey on X: [X](https://x.com/Anggaaais?t=mtqdHm1teFs3gOJe5RdEUg&s=09)
+- [portdiag](https://github.com/AnggaaIs/portdiag): Node.js CLI for diagnosing TCP port conflicts on Windows, macOS, and Linux.
+- [svelte-topbar](https://github.com/AnggaaIs/svelte-topbar): A lightweight loading bar component for Svelte 5 and SvelteKit.
+- [listening-insights](https://github.com/AnggaaIs/listening-insights): A local-first Spicetify app for exploring Spotify listening patterns.
 
-## Fun Fact! 🎉
-Once, I crafted a chatbot to share uplifting quotes from the Quran. It was a beautiful reminder of the power of technology to spread positivity and faith! 😊
+## Technologies
 
-Ready to embark on a coding journey infused with the spirit of Islam? Let's create wonders together! 🌟
+TypeScript · JavaScript · Node.js · Svelte · Go · Java
+
+## Contact
+
+[Portfolio](https://anggaais.me) · [Email](mailto:servantangga@gmail.com)
