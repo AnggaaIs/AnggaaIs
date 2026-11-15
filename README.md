@@ -10,8 +10,8 @@ Software developer based in Indonesia. I build developer tools and web applicati
 
 ## Technologies
 
-TypeScript · JavaScript · Node.js · Svelte · Go · Java
+TypeScript, JavaScript, Node.js, Svelte, Go, Java
 
 ## Contact
 
-[Portfolio](https://anggaais.me) · [Email](mailto:servantangga@gmail.com)
+[Email](mailto:anggaapasyaa@gmail.com)
